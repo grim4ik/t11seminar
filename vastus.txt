@@ -1,0 +1,10 @@
+Spring Boot
+
+Vajalikud kasklused:
+
+scl enable rh-maven33 bash
+mvn package
+java -jar target/app1.jar
+
+Vajalikud failid:
+pom.xml
